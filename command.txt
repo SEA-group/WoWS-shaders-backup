@@ -1,0 +1,1 @@
+wowsunpack.exe -x bin\4883153\idx -p ..\..\..\res_packages -I shaders\* -o 0.10.11.0\
